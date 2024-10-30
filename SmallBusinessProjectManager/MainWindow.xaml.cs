@@ -120,5 +120,6 @@ namespace SmallBusinessProjectManager
                 projectDescriptionTextBox.Text = row["Description"].ToString();
             }
         }
+
     }
 }
